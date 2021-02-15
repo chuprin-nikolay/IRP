@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <document xmlns="http://v8.1c.ru/8.2/data/spreadsheet" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 	<languageSettings>
 		<currentLanguage>en</currentLanguage>
@@ -263,6 +263,22 @@
 							<v8:lang>en</v8:lang>
 							<v8:content>Description</v8:content>
 						</v8:item>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Наименование</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>de</v8:lang>
+							<v8:content>Beschreibung</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>fr</v8:lang>
+							<v8:content>Description</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>tr</v8:lang>
+							<v8:content>Tanım</v8:content>
+						</v8:item>
 					</tl>
 				</c>
 			</c>
@@ -273,6 +289,10 @@
 						<v8:item>
 							<v8:lang>en</v8:lang>
 							<v8:content>Procurement Method</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Метод обеспечения</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -290,6 +310,10 @@
 							<v8:lang>en</v8:lang>
 							<v8:content>Quantity (unit)</v8:content>
 						</v8:item>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Количество (ед. изм.)</v8:content>
+						</v8:item>
 					</tl>
 				</c>
 			</c>
@@ -300,6 +324,22 @@
 						<v8:item>
 							<v8:lang>en</v8:lang>
 							<v8:content>Unit</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Ед. изм.</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>de</v8:lang>
+							<v8:content>Einheit</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>fr</v8:lang>
+							<v8:content>Unité</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>tr</v8:lang>
+							<v8:content>Birim</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -312,6 +352,22 @@
 							<v8:lang>en</v8:lang>
 							<v8:content>Quantity</v8:content>
 						</v8:item>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Количество</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>de</v8:lang>
+							<v8:content>Anzahl</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>fr</v8:lang>
+							<v8:content>Quantité</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>tr</v8:lang>
+							<v8:content>Miktar</v8:content>
+						</v8:item>
 					</tl>
 				</c>
 			</c>
@@ -322,6 +378,10 @@
 						<v8:item>
 							<v8:lang>en</v8:lang>
 							<v8:content>Planned shipping date</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Планируемая дата отгрузки</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -334,6 +394,10 @@
 							<v8:lang>en</v8:lang>
 							<v8:content>Max shipping date</v8:content>
 						</v8:item>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Максимальная дата</v8:content>
+						</v8:item>
 					</tl>
 				</c>
 			</c>
@@ -344,6 +408,10 @@
 						<v8:item>
 							<v8:lang>en</v8:lang>
 							<v8:content>Actual stock</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Остатки на складе</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -356,6 +424,10 @@
 							<v8:lang>en</v8:lang>
 							<v8:content>Free stock</v8:content>
 						</v8:item>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Свободный остаток</v8:content>
+						</v8:item>
 					</tl>
 				</c>
 			</c>
@@ -366,6 +438,10 @@
 						<v8:item>
 							<v8:lang>en</v8:lang>
 							<v8:content>Can be reserved</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Готово к резерву</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -378,6 +454,10 @@
 							<v8:lang>en</v8:lang>
 							<v8:content>Need to be procured</v8:content>
 						</v8:item>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Необходимо обеспечит</v8:content>
+						</v8:item>
 					</tl>
 				</c>
 			</c>
@@ -388,6 +468,10 @@
 						<v8:item>
 							<v8:lang>en</v8:lang>
 							<v8:content>Wait for income</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Ожидается к приходу</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -675,6 +759,22 @@
 							<v8:lang>en</v8:lang>
 							<v8:content>Item</v8:content>
 						</v8:item>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Номенклатура</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>de</v8:lang>
+							<v8:content>Produkt</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>fr</v8:lang>
+							<v8:content>Article</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>tr</v8:lang>
+							<v8:content>Malzeme</v8:content>
+						</v8:item>
 					</tl>
 				</c>
 			</c>
@@ -704,6 +804,14 @@
 							<v8:lang>en</v8:lang>
 							<v8:content>Receipt</v8:content>
 						</v8:item>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Приход</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>tr</v8:lang>
+							<v8:content>Giriş</v8:content>
+						</v8:item>
 					</tl>
 				</c>
 			</c>
@@ -715,6 +823,14 @@
 							<v8:lang>en</v8:lang>
 							<v8:content>Expense</v8:content>
 						</v8:item>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Расход</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>tr</v8:lang>
+							<v8:content>Gider</v8:content>
+						</v8:item>
 					</tl>
 				</c>
 			</c>
@@ -725,6 +841,14 @@
 						<v8:item>
 							<v8:lang>en</v8:lang>
 							<v8:content>Balance</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Остаток</v8:content>
+						</v8:item>
+						<v8:item>
+							<v8:lang>tr</v8:lang>
+							<v8:content>Bakiye</v8:content>
 						</v8:item>
 					</tl>
 				</c>
@@ -1104,6 +1228,10 @@
 				<v8:lang>en</v8:lang>
 				<v8:content>DF=dd.MM.yyyy</v8:content>
 			</v8:item>
+			<v8:item>
+				<v8:lang>ru</v8:lang>
+				<v8:content>DF=dd.MM.yyyy</v8:content>
+			</v8:item>
 		</format>
 	</format>
 	<format>
@@ -1116,6 +1244,10 @@
 		<format>
 			<v8:item>
 				<v8:lang>en</v8:lang>
+				<v8:content>DF=dd.MM.yyyy</v8:content>
+			</v8:item>
+			<v8:item>
+				<v8:lang>ru</v8:lang>
 				<v8:content>DF=dd.MM.yyyy</v8:content>
 			</v8:item>
 		</format>
@@ -1200,6 +1332,10 @@
 				<v8:lang>en</v8:lang>
 				<v8:content>DF=dd.MM.yyyy</v8:content>
 			</v8:item>
+			<v8:item>
+				<v8:lang>ru</v8:lang>
+				<v8:content>DF=dd.MM.yyyy</v8:content>
+			</v8:item>
 		</format>
 	</format>
 	<format>
@@ -1211,6 +1347,10 @@
 		<format>
 			<v8:item>
 				<v8:lang>en</v8:lang>
+				<v8:content>DF=dd.MM.yyyy</v8:content>
+			</v8:item>
+			<v8:item>
+				<v8:lang>ru</v8:lang>
 				<v8:content>DF=dd.MM.yyyy</v8:content>
 			</v8:item>
 		</format>
@@ -1274,6 +1414,10 @@
 				<v8:lang>en</v8:lang>
 				<v8:content>DF=dd.MM.yyyy</v8:content>
 			</v8:item>
+			<v8:item>
+				<v8:lang>ru</v8:lang>
+				<v8:content>DF=dd.MM.yyyy</v8:content>
+			</v8:item>
 		</format>
 	</format>
 	<format>
@@ -1327,6 +1471,10 @@
 		<format>
 			<v8:item>
 				<v8:lang>en</v8:lang>
+				<v8:content>DF=dd.MM.yyyy</v8:content>
+			</v8:item>
+			<v8:item>
+				<v8:lang>ru</v8:lang>
 				<v8:content>DF=dd.MM.yyyy</v8:content>
 			</v8:item>
 		</format>
